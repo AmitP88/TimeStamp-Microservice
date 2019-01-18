@@ -2,8 +2,8 @@
 # API Project: Timestamp Microservice for FCC
 
 ## To Run Project:
-1. Go to https://amit-timestamp-microservice.glitch.me/api/timestamp/ 
-2. At the end of the URL in the address bar, add either the date of your choice (example: '2016-11-20') or nothing (to get the current date).
+1. Go to https://amit-timestamp-microservice.glitch.me
+2. At the end of the URL in the address bar, add /api/timestamp/ and either the date of your choice (example: '2016-11-20') or nothing (to get the current date).
 4. If the date you entered at the end of the URL is a valid date, you should see a JSON object rendered with both the "unix" timestamp in milliseconds and the "utc" date as the object properties.
 
 ### User stories :
